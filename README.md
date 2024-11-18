@@ -1,16 +1,24 @@
-## Hi there 👋
+¡Hola! 👋 Soy Carlos, estudiante de desarrollo web en la Universidad Europea. Actualmente, estoy enfocándome en:
 
-<!--
-**carlosejarque/carlosejarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologías que manejo:
+Frontend:
 
-Here are some ideas to get you started:
+Lenguajes: HTML, CSS, JavaScript
+Frameworks: React (nivel básico)
+Herramientas: Git, GitHub, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías en vias de aprendizaje:
+Frontend:
+
+Lenguajes: HTML, CSS, JavaScript
+Frameworks: React , Angular
+Backend:
+
+Lenguajes: JavaScript (Node.js), Python
+Frameworks:Django
+
+Mi objetivo es desarrollar aplicaciones web completas y eficientes, ofreciendo experiencias de usuario excepcionales.
+
+Contacto:
+Correo electrónico: carlosejarque@gmail.com
+LinkedIn: www.linkedin.com/in/carlos-ejarque-974a27241
